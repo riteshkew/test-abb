@@ -1,0 +1,12 @@
+{
+    "ConfirmedFields": [{
+        "Id": 13,
+        "Value": {
+            "Item": {
+            "$type": "DocumentIndexFieldTable",
+            "Row": [{ }]
+        },
+        "ItemElementName": "Table"
+        }
+    }]
+}
